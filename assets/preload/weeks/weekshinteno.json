@@ -1,0 +1,41 @@
+{
+	"storyName": ".........................................................................",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "shinto",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"shinto",
+			"shinto",
+			[
+				166,
+				155,
+				73
+			]
+		],
+		[
+			"shitno",
+			"shitno",
+			[
+				60,
+				40,
+				0
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Custom Week"
+}
