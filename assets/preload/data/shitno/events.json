@@ -1,0 +1,89 @@
+{
+	"song": {
+		"speed": 3.1,
+		"stage": "shitno",
+		"player1": "grey-cold",
+		"player2": "shitno",
+		"player3": null,
+		"events": [
+			[
+				833.333333333333,
+				[
+					[
+						"Camera Follow Pos",
+						"1000",
+						"300"
+					]
+				]
+			],
+			[
+				7583.33333333333,
+				[
+					[
+						"Play Animation",
+						"Grey Cold",
+						"bf"
+					]
+				]
+			],
+			[
+				34750,
+				[
+					[
+						"Play Animation",
+						"Grey Turn Around",
+						"bf"
+					]
+				]
+			],
+			[
+				34833.3333333333,
+				[
+					[
+						"Camera Follow Pos",
+						"",
+						""
+					]
+				]
+			],
+			[
+				36000,
+				[
+					[
+						"Alt Idle Animation",
+						"bf",
+						"-alt"
+					]
+				]
+			],
+			[
+				46375,
+				[
+					[
+						"Play Animation",
+						"bo",
+						"bf"
+					]
+				]
+			],
+			[
+				169333.333333333,
+				[
+					[
+						"Play Animation",
+						"bo",
+						"bf"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 180,
+		"arrowSkin": "",
+		"needsVoices": true,
+		"song": "Shitno"
+	}
+}
